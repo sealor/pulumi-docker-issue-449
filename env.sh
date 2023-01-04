@@ -1,0 +1,2 @@
+export PULUMI_SKIP_UPDATE_CHECK=true
+export export PULUMI_CONFIG_PASSPHRASE=
